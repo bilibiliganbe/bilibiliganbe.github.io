@@ -1,4 +1,4 @@
-[996.ICU](https://996.icu/#/en_US)
+[原神领3000原石](https://www.bilibili.com/video/BV1GJ411x7h7)
 =======
 **Please note that there exists NO other official account, app or merchandise except for the official domain and this repository.**
 
@@ -6,19 +6,8 @@
 
 The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying among Chinese developers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
 
-[![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/en_US)
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-[![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTkyMGViNmJiZjYwOWVlNzQ3NmQ4NTQyMDRiZTNmOWFkMzYxZWNmZGI0NDA4MWIwOGVhOThhMzc3NGQyMDBhZDc)
-[![HitCount](http://hits.dwyl.com/996icu/996ICU.svg)](http://hits.dwyl.com/996icu/996ICU)
 
-
-Related press coverage:
----
-* *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/)
-* *Financial Times:*  [China tech worker protest against long working hours goes viral](https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1)
-* *Wired:* [How GitHub is helping overworked Chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/)
-
-See a [full list of press](externals/news_EN.md)
+[![HitCount](https://s21.ax1x.com/2024/12/24/pAjaWcT.png)](https://s21.ax1x.com/2024/12/24/pAjaWcT.png)
 
 
 
@@ -123,4 +112,4 @@ Donations will be used to sustain/maintain the website.
 Contact
 ---
 
-You can reach me by [E-mail](mailto:996icu.repo@gmail.com) if you need.
+You can reach me by [E-mail](mailto:1@yuanhang114514.one) if you need.
